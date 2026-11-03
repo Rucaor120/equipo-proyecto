@@ -1,6 +1,8 @@
 # Proyecto del equipo
 
-Nombre del proyecto: por definir
+Nombre del proyecto: Proyecto Diseño Web
 
 ## Miembros
+
+- Javier
 - Ruben
